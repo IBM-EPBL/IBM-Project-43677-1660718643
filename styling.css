@@ -2,7 +2,7 @@ body{
 	background-color: whitesmoke ;
 }
 div{
-	background-color: lightslategrey;
+	background-color: white;
 	border :solid;width: 500px;height: 500px;
 	border-width: 10px;
 	border-color: black;
