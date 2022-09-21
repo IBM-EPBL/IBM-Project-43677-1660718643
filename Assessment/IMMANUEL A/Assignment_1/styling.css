@@ -1,0 +1,19 @@
+body{
+	background-color: whitesmoke ;
+}
+div{
+	background-color: white;
+	border :solid;width: 500px;height: 500px;
+	border-width: 10px;
+	border-color: black;
+	margin-left: 490px;
+	margin-top: 150px;
+}
+h1{
+	text-align: center;
+}
+form{
+	padding-left: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
